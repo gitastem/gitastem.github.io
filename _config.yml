@@ -23,7 +23,7 @@
 title: GitaSTEM
 email: 
 #event-date: "2023-06-26T00:00:00"
-tagline: Gita and Science-Technology-Engineerring-Mathematics
+tagline: Gita and Science-Technology-Engineering-Mathematics
 #description: >-
   
 twitter-username: ""
@@ -50,30 +50,30 @@ header:
 navigation:
   - name: "/ About"
     url: "#about"
-  
-  - name: "/ Speakers"
-    url: "#speakers"
-
-  - name: "/ Timeline"
-    url: "#timeline"
-
-  - name: "/ Registration"
-    url: "registration"
-
-  - name: "/ Agenda"
-    url: "#agenda"
-
-  - name: "/ Recordings"
-    url: "#stream"
-
-  - name: "/ Venue"
-    url: "#venue"
-
-  - name: "/ Organizers"
-    url: "#organizers"
-
-
-# Defaults for different pages
+#  
+#  - name: "/ Speakers"
+#    url: "#speakers"
+#
+#  - name: "/ Timeline"
+#    url: "#timeline"
+#
+#  - name: "/ Registration"
+#    url: "registration"
+#
+#  - name: "/ Agenda"
+#    url: "#agenda"
+#
+#  - name: "/ Recordings"
+#    url: "#stream"
+#
+#  - name: "/ Venue"
+#    url: "#venue"
+#
+#  - name: "/ Organizers"
+#    url: "#organizers"
+#
+#
+## Defaults for different pages
 defaults:
   - scope:
       path: ""
@@ -91,19 +91,19 @@ color:
 
 
 # Footer settings
-footer: ML in PL Association
+footer: GitaSTEM
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/company/mlinpl
+    url: https://www.linkedin.com
   - title: facebook
-    url: https://www.facebook.com/MLinPL
+    url: https://www.facebook.com
   - title: twitter
-    url: https://twitter.com/mlinpl
+    url: https://twitter.com
   - title: youtube
-    url: https://www.youtube.com/channel/UCmXKn-Xeq1ZTAQBTwsYw4AA
+    url: https://www.youtube.com
 
 
 # Build settings
