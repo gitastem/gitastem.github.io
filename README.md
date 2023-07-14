@@ -1,3 +1,2 @@
-# mlss2023.mlinpl.org
+# GitaSTEM
 
-Repository with the code of mlss2023.mlinpl.org website.
