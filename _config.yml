@@ -35,10 +35,10 @@ url: "https://gitastem.github.io" # the base hostname & protocol for your site, 
 
 
 # Header settings
-inline-logo: '<span class="logo"><span class="main-name">MLSS<span class="superscript">S</span></span> <span class="sub-name">2023</span></span>'
+inline-logo: '<span class="logo"><span class="main-name">GitaSTEM</span></span>'
 header:
   heading: '<span class="logo"><span class="main-name">GitaSTEM</span></span>'
-  subheading: Machine Learning Summer School</br>on applications in <span class="emph">Science</span>
+  subheading: <span class="emph">Gita and Science-Technology-Engineering-Mathematics</span>
 #  date-location: 26 June - 2 July / Kraków, Poland
   # Countdown settings
   #countdown-date: "2023-06-26T06:00:00Z"
